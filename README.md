@@ -105,8 +105,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <br/><br/>
-</td>
 <img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+</td>
+
 </tr>
 </table>
 </p>
