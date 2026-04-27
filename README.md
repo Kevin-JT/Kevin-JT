@@ -155,10 +155,10 @@
 🧪 &nbsp; Positive & negative boundary test cases<br/>
 ⏱️ &nbsp; Timer, session timeout & input limit coverage<br/>
 📊 &nbsp; Full traceability matrix maintained<br/>
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </td>
 
 </tr>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 <tr>
 
 <td width="50%" valign="top">
