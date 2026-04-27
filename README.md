@@ -1,5 +1,5 @@
 <!-- Header Banner — Pixel Art Coding Room (vibrant, colorful) -->
-<img align="center" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<img align="center" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <!-- Name Heading -->
 <h1 align="left">
