@@ -158,7 +158,7 @@
 </td>
 
 </tr>
-<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
 <tr>
 
 <td width="50%" valign="top">
