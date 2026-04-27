@@ -201,12 +201,6 @@
 <td>IPCS Global, Trivandrum</td>
 <td><img src="https://img.shields.io/badge/2026-✅_Certified-00E5A0?style=flat-square"/></td>
 </tr>
-<tr>
-<td align="center">🚀</td>
-<td><b>Playwright Test Automation</b></td>
-<td>In Progress</td>
-<td><img src="https://img.shields.io/badge/2026-🔄_In_Progress-7B2FFF?style=flat-square"/></td>
-</tr>
 </table>
 </p>
 
