@@ -1,49 +1,58 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- Header Banner GIF -->
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
+<!-- Name Heading -->
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
   Hi, I'm <strong>Kevin J T</strong>
 </h1>
 
-<h3>Software Test Engineer | Selenium • Cypress • Playwright • API Testing</h3>
+<h3>Software Test Engineer &nbsp;|&nbsp; Selenium • TestNG • Cypress • Playwright • API Testing</h3>
 
+<!-- Bio + Side GIF -->
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
   <p>
-    I'm a Software Test Engineer who finds bugs before your users do.<br/>
-    From writing precise test cases to building robust automation frameworks,
-    I deliver release-ready software through systematic testing across the full SDLC.
+    I'm a Software Test Engineer who believes great software starts with great testing.<br/>
+    I hunt bugs systematically — from writing precise test cases to building robust automation
+    frameworks that run reliably with every deployment.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Tamil_Nadu,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:kevinjt2004@gmail.com"><img src="https://img.shields.io/badge/📧_kevinjt2004@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/💼_Open_to_QA_/_Test_Engineer_Roles-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Currently_Learning_Playwright-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📍_Tamil_Nadu,_India-1e1e2e?style=for-the-badge"/>
+    <a href="mailto:kevinjt2004@gmail.com">
+      <img src="https://img.shields.io/badge/📧_kevinjt2004@gmail.com-1e1e2e?style=for-the-badge"/>
+    </a>
+    <img src="https://img.shields.io/badge/🟢_Open_to_QA_/_Test_Engineer_Roles-1e1e2e?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🐛_I_break_things_professionally_😄-1e1e2e?style=for-the-badge"/>
   </p>
 
+  <!-- Socials -->
   <h3>🌐 Socials</h3>
 
   <p align="left">
     <a href="https://linkedin.com/in/kevinjt2004">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    &nbsp;
     <a href="https://github.com/Kevin-JT">
-      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+    &nbsp;
     <a href="mailto:kevinjt2004@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    &nbsp;
     <a href="https://kevinjt-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=vercel&logoColor=black"/>
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Kevin-JT&style=flat-square&color=00E5A0" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Kevin-JT&style=flat-square&color=00E5A0" alt="Profile Views"/>
 </div>
 
-<br clear="all" />
+<br clear="all"/>
 
 ---
 
@@ -52,88 +61,155 @@
 <p align="center">
 <table>
 <tr>
+
 <td width="50%" align="center">
 <h3>🤖 Automation Testing</h3>
-
-<img src="https://skillicons.dev/icons?i=selenium,cypress" />
+<img src="https://skillicons.dev/icons?i=selenium,cypress"/>
 <br/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/POM-00E5A0?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Page_Object_Model_(POM)-00E5A0?style=for-the-badge&logoColor=black"/>
 <br/><br/>
-
 </td>
 
 <td width="50%" align="center">
 <h3>💻 Programming & Query</h3>
-
-<img src="https://skillicons.dev/icons?i=java,mysql" />
+<img src="https://skillicons.dev/icons?i=java,mysql"/>
 <br/><br/>
-
+<img src="https://img.shields.io/badge/SDLC_|_STLC-0D47A1?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Agile-00BCD4?style=for-the-badge"/>
+<br/><br/>
 </td>
-</tr>
 
+</tr>
 <tr>
+
 <td width="50%" align="center">
 <h3>⚡ API & Performance</h3>
-
-<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=postman"/>
 <br/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter_(Load_&_Stress)-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
 <br/><br/>
-
 </td>
 
 <td width="50%" align="center">
 <h3>🧰 Tools & Workflow</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jira"/>
 <br/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <br/><br/>
-
 </td>
+
 </tr>
 </table>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🔬 Projects
 
-### 🛡️ SafeHands — Disaster Relief Web App
-> Selenium · Java · TestNG · Maven · POM · Feb 2026
+<p align="center">
+<table>
+<tr>
 
-- Built **20+ automated scripts** covering login, alerts, checkboxes, date pickers, and navigation
-- Applied **Explicit Waits** to eliminate test flakiness on dynamic UI elements
-- Logged all defects with severity ratings and full reproduction steps
+<td width="50%" valign="top">
+<h3>🛡️ SafeHands</h3>
+<b>Disaster Relief Web App — Automation Testing</b>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square"/>
+<img src="https://img.shields.io/badge/POM-00E5A0?style=flat-square"/>
 
-### 📝 Online Exam Portal — E2E Automation
-> Selenium · Java · TestNG · Boundary Value Testing · Nov 2025
+<br/><br/>
 
-- Automated **10+ end-to-end scenarios**: login → questions → submission → score calculation
-- Designed **positive and negative test cases** for timer edge cases and session timeouts
-- Maintained full **requirements traceability** in Google Sheets
+🤖 &nbsp; 20+ automated scripts built from scratch<br/>
+⏳ &nbsp; Explicit Waits — eliminated all test flakiness<br/>
+🐛 &nbsp; 5+ defects logged with severity ratings<br/>
+📋 &nbsp; TestNG annotations for full lifecycle control<br/>
 
----
+</td>
 
-### 👥 OrangeHRM — Manual Testing
-> Manual Testing · Cross-Browser · Regression Testing · Sep 2025
+<td width="50%" valign="top">
+<h3>📝 Online Exam Portal</h3>
+<b>End-to-End Automation Suite</b>
+<br/><br/>
 
-- Authored **30+ test cases** for Login, Admin, and Employee Management modules
-- Identified **5+ defects** with severity classification and reproduction steps
-- Executed **cross-browser testing** across Chrome, Firefox, and Edge
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+
+<br/><br/>
+
+🔄 &nbsp; 10+ E2E flows: login → exam → score<br/>
+🧪 &nbsp; Positive & negative boundary test cases<br/>
+⏱️ &nbsp; Timer, session timeout & input limit coverage<br/>
+📊 &nbsp; Full traceability matrix maintained<br/>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>👥 OrangeHRM</h3>
+<b>Manual Testing — HR Management System</b>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Manual_Testing-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross--Browser-F5A623?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-6A0DAD?style=flat-square"/>
+
+<br/><br/>
+
+📄 &nbsp; 30+ test cases across 3 core modules<br/>
+🐛 &nbsp; 5+ defects found with full reproduction steps<br/>
+🌐 &nbsp; Chrome, Firefox & Edge compatibility tested<br/>
+🔁 &nbsp; Regression after every single bug fix<br/>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="220"/>
+<br/>
+<i>More projects coming soon... 🚀</i>
+</td>
+
+</tr>
+</table>
+</p>
 
 ---
 
 ## 🏆 Certifications
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| ✅ Advanced Software Testing | IPCS Global, Trivandrum | 2026 |
-| 🔄 Playwright Testing *(in progress)* | — | 2026 |
+<p align="center">
+<table>
+<tr>
+<td align="center">🎖️</td>
+<td><b>Advanced Software Testing</b></td>
+<td>IPCS Global, Trivandrum</td>
+<td><img src="https://img.shields.io/badge/2026-✅_Certified-00E5A0?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>Playwright Test Automation</b></td>
+<td>In Progress</td>
+<td><img src="https://img.shields.io/badge/2026-🔄_In_Progress-7B2FFF?style=flat-square"/></td>
+</tr>
+</table>
+</p>
 
 ---
 
@@ -141,17 +217,43 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-JT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060C18&title_color=00E5A0&icon_color=00E5A0&text_color=94A3B8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-JT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=94A3B8" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-JT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=94A3B8" height="170"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Kevin-JT&theme=tokyonight&hide_border=true&background=060C18&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kevin-JT&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" width="68%"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-JT&layout=compact&theme=tokyonight&hide_border=true&bg_color=060C18&title_color=00E5A0&text_color=94A3B8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevin-JT&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Quality is not an act — it's a habit."</i>
-  <br/><br/>
-  ⭐ <strong>If you find my work useful, consider starring the repositories!</strong>
+
+<h3>🤝 Let's Build Quality Together</h3>
+
+<a href="https://linkedin.com/in/kevinjt2004">
+  <img src="https://img.shields.io/badge/LinkedIn-Kevin_J_T-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="mailto:kevinjt2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kevinjt2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://kevinjt-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-kevinjt.vercel.app-00E5A0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake-dark.svg" width="90%"/>
+</picture>
+
+<br/>
+
+*"Quality is not an act — it's a habit."*
+
 </div>
