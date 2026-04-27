@@ -111,6 +111,8 @@
 </table>
 </p>
 
+---
+
 ## 🔬 Projects
 
 <p align="center">
@@ -220,7 +222,6 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Kevin-JT&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" width="68%"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevin-JT&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
 </div>
 
 ---
