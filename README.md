@@ -110,7 +110,6 @@
 </tr>
 </table>
 </p>
----
 
 ## 🔬 Projects
 
