@@ -143,7 +143,7 @@
 <h3>📝 Online Exam Portal</h3>
 <b>End-to-End Automation Suite</b>
 <br/><br/>
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
@@ -155,7 +155,7 @@
 🧪 &nbsp; Positive & negative boundary test cases<br/>
 ⏱️ &nbsp; Timer, session timeout & input limit coverage<br/>
 📊 &nbsp; Full traceability matrix maintained<br/>
-
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </td>
 
 </tr>
