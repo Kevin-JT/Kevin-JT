@@ -83,10 +83,9 @@
 <img src="https://img.shields.io/badge/SDLC_|_STLC-0D47A1?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Agile-00BCD4?style=for-the-badge"/>
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 <br/><br/>
 </td>
-
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 </tr>
 <tr>
 
