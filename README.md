@@ -255,6 +255,7 @@
 
 <br/>
 
-*"Quality is not an act — it's a habit."*
+*"Quality is not an act — it's a habit."
+                           - Kevin J T*
 
 </div>
