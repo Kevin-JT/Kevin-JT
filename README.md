@@ -182,7 +182,7 @@
 
 <td width="50%" valign="top" align="center">
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="220"/>
 <br/>
 <i>More projects coming soon... 🚀</i>
 </td>
