@@ -1,5 +1,5 @@
-<!-- Header Banner GIF -->
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- Header Banner — Pixel Art Coding Room (vibrant, colorful) -->
+<img align="center" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 <!-- Name Heading -->
 <h1 align="left">
@@ -241,15 +241,16 @@
 </a>
 &nbsp;
 <a href="https://kevinjt-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-kevinjt.vercel.app-00E5A0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00E5A0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
+<!-- 🐍 Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake-dark.svg" width="90%"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kevin-JT/Kevin-JT/output/github-snake-dark.svg" width="95%"/>
 </picture>
 
 <br/>
