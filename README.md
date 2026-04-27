@@ -1,5 +1,5 @@
 <!-- Header Banner GIF -->
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 <!-- Name Heading -->
 <h1 align="left">
