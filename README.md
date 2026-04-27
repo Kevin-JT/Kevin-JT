@@ -180,9 +180,9 @@
 
 </td>
 
-<td width="200%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="220"/>
 <br/>
 <i>More projects coming soon... 🚀</i>
 </td>
