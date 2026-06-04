@@ -212,7 +212,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Kevin-JT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=94A3B8" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-JT&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=94A3B8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-JT&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=94A3B8" height="250" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Kevin-JT&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" width="68%"/>
   <br/><br/>
